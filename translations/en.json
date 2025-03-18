@@ -1,0 +1,9 @@
+{
+    "config": {
+        "step": {
+            "authorization": {
+                "description": "Click the following link to authenticate Plaid: [Authorize]({hosted_link})"
+            }
+        }
+    }
+}

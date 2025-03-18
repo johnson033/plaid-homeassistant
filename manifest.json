@@ -1,0 +1,11 @@
+{
+    "domain": "plaid_integration",
+    "name": "Plaid Integration",
+    "documentation": "https://www.home-assistant.io/integrations/plaid",
+    "dependencies": [],
+    "codeowners": ["@johnson033"],
+    "version": "1.0.0",
+    "requirements": ["plaid-python"],
+    "config_flow": true
+  }
+  
